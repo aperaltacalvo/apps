@@ -5,4 +5,5 @@ import org.springframework.stereotype.Component
 class BlogComp {
  
   def performTask = "Greetings from Blog!"
+
 }
