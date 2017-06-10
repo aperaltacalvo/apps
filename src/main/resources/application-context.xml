@@ -7,6 +7,5 @@
 	<context:annotation-config />
 	<context:property-placeholder />
 
-	<context:component-scan base-package="com.aperalta.blog" />
-
+	<context:component-scan base-package="com.aperalta.*" />
 </beans>
